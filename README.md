@@ -1,10 +1,10 @@
 # group1_ICTE5005_ParcelSortingSystem
 
 # Members 
-23036897 
-23594900 
-21455209 
-23446470
+Sing Yuan Lee
+Yidan Yu
+Charmaine Chai Nie Tan 
+Izuchukwu
 
 # Steps to replicate
 1. connect to 1 arduino and upload Lidar code and label this as Arduino1
