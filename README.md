@@ -1,1 +1,30 @@
 # group1_ICTE5005_ParcelSortingSystem
+
+# Members 
+23036897 
+23594900 
+21455209 
+23446470
+
+# Steps to replicate
+1. connect to 1 arduino and upload Lidar code and label this as Arduino1
+2. connect to 1 arduino and upload Servo code and label this as Arduino2
+3. connect to 1 arduino and upload Bin code and label this as Arduino3
+4. connect to 1 arduino and upload Master code and label this as Arduino4
+
+# required components
+arduino 1 
+- lidar
+
+arduino 2 
+- servo
+
+arduino 3
+- 2 lidar
+
+arduino 4 
+- 2 buttons
+- 1 green light
+- 1 red light
+- 2 resistor
+
